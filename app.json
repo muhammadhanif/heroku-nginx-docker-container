@@ -1,0 +1,9 @@
+{
+  "name": "heroku-nginx-docker-container",
+  "description": "Deploy nginx docker container to heroku",
+  "repository": "https://github.com/muhammadhanif/heroku-nginx-docker-container",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg",
+  "website": "https://engine-x.herokuapp.com/",
+  "keywords": ["nginx", "docker", "container"],
+  "stack": "container"
+}
