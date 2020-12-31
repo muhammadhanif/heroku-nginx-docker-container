@@ -1,13 +1,13 @@
 # heroku-nginx-docker-container
 Deploy nginx docker container to heroku
 
-### Deploy
+## Deploy
 
 Click the following button to deploy the repository to heroku.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-### Manual deployment
+## Manual deployment
 
 To deploy the repository manually, you have to install:
 
@@ -40,3 +40,10 @@ heroku container:push web -a APP_NAME
 ```bash
 heroku container:release web -a APP_NAME
 ```
+
+## Donate
+
+If you want to donate to this project, please contact us:
+
+- Email: moehammadhanif@gmail.com
+- Telegram: [@hanifmu](https://t.me/hanifmu)
